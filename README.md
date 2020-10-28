@@ -2,4 +2,4 @@
 ## Monografía
 [Myron Krueger - Monografía](monografia_myron_krueger.pdf)
 ## Retrato
-[Retrato Rebeca] (autorretrato.)
+[Retrato Rebeca](autorretrato.pde)
