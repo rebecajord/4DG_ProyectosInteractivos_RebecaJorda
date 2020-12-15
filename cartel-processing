@@ -1,0 +1,53 @@
+import processing.pdf.*;
+
+int m=20;
+
+void setup(){
+  size(800, 1132,PDF,"cartel-processing.pdf");
+  strokeWeight(2);
+  noFill();
+ }
+void draw(){
+  pushMatrix();
+  translate(-250,-360);
+  aina();
+  popMatrix();
+  
+  pushMatrix();
+  translate(0,-360);
+  clara();
+  popMatrix();
+  
+  pushMatrix();
+  translate(250,-360);
+  clarag();
+  popMatrix();
+  
+  pushMatrix();
+  translate(-250,-90);
+  india();
+  popMatrix();
+  
+  pushMatrix();
+  translate(0,-90);
+  miguel();
+  popMatrix();
+  
+  pushMatrix();
+  translate(250,-90);
+  natalia();
+  popMatrix();
+  
+  pushMatrix();
+  translate(-250,150);
+  omar();
+  popMatrix();
+  
+  pushMatrix();
+  translate(0,150);
+  rebeca();
+  popMatrix();
+  
+  println("he leido hasta aqui");
+  exit();
+  }
