@@ -14,7 +14,7 @@
 
 [Foto del cartel impreso](cartel.jpeg) - [Foto detalle del cartel impreso](cartel-detalle.jpeg)
 
-[Video de la realización del cartel]
+Videos de la realización del cartel - [Video verde](video-verde.mp4) - [Video morado](video-morado.mp4) - [Video naranja](video-naranja.mp4)
 
 ## LiveCoding
 [Sistema de partículas - propuesta Rebeca Jordá](sistema-particulas-rebeca-jorda.pdf)
